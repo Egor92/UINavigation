@@ -1,1 +1,3 @@
-UINavigation has been renamed to MvvmNavigation. Actual version of project is available [at this link](https://github.com/Egor92/MvvmNavigation) now
+UINavigation has been renamed to [MvvmNavigation](https://github.com/Egor92/MvvmNavigation)
+
+UINavigation был переименован в [MvvmNavigation](https://github.com/Egor92/MvvmNavigation)
